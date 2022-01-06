@@ -1,1 +1,1 @@
-Epochs of the VM development
+Epochs of the GONT VM development
