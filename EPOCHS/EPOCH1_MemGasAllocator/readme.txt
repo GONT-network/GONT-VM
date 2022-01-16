@@ -1,4 +1,4 @@
-Very first step of the DEV process.
+A very first step of the GONT DEVELOPMENT process.
 
 Epoch 1: Allocator of the memory AltGas (alternative gas)
 Phase 1: "BigBang" (according to the Roadmap)
